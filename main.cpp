@@ -2,6 +2,7 @@
 #include <cmath>
 #include <stdlib.h>
 // Since this code uses variables while creating arrays it may not compile on some IDE's.
+// Coded on CodeBlocks with GNU Compiler.
 
 using namespace std;
 int Nodes[100][2];
