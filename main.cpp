@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 #include <stdlib.h>
-
+// Since this code uses variables while creating arrays it may not compile on some IDE's.
 
 using namespace std;
 int Nodes[100][2];
